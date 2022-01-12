@@ -7,3 +7,6 @@ print(a-b)
 print(a*b)
 
 print("Not a big deal")
+
+print("A new commit is add")
+print("Another commit")
