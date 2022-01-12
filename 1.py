@@ -14,3 +14,7 @@ print("Another commit")
 print("2nd new command")
 print("And now commiting")
 print("Am Devi")
+
+c = (int(input("Your age:")))
+d = (int(input("Your height:")))
+print("Done")
