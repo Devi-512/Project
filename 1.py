@@ -9,6 +9,7 @@ print(a*b)
 print("Not a big deal")
 
 print("A new commit is add")
+<<<<<<< HEAD
 print("Another commit")
 
 print("2nd new command")
@@ -20,3 +21,6 @@ d = 5
 print("Done")
 
 print("your age ", c+d)
+=======
+print("Another commit")
+>>>>>>> parent of ee646a5 (again New msg added)
