@@ -15,6 +15,8 @@ print("2nd new command")
 print("And now commiting")
 print("Am Devi")
 
-c = (int(input("Your age:")))
-d = (int(input("Your height:")))
+c = (int(input("Your class:")))
+d = 5
 print("Done")
+
+print("your age ", c+d)
