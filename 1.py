@@ -10,3 +10,7 @@ print("Not a big deal")
 
 print("A new commit is add")
 print("Another commit")
+
+print("2nd new command")
+print("And now commiting")
+print("Am Devi")
