@@ -1,3 +1,3 @@
 a = (int(input("Your age:")))
-b = (int(input("Your height:")))
-print("Done")
+b = 5
+print("u r in standard: ", a-b)
